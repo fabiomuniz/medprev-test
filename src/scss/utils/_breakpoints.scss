@@ -1,0 +1,9 @@
+$breakpoints: (
+  "phone": 520px,
+  "small": 768px,
+  "medium": 600px,
+  "tablet": 1024px,
+  "large": 1280px,
+  "ex-large": 1440px,
+) !default;
+@import "../../../node_modules/include-media/dist/_include-media.scss";
